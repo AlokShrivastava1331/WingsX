@@ -1,3 +1,4 @@
+groq
 openai
 requests
 python-dotenv
